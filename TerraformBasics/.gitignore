@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+# ignoing exe files also
+
 # Crash log files
 crash.log
 
