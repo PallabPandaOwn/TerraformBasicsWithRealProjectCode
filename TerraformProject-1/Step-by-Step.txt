@@ -1,0 +1,41 @@
+Step by step method :
+
+    1) You can practise individual modules - VPC , RDS 
+
+    2) Once you are comfortable with individual modules you can launch the complete webapp
+
+NOTE : If you run into any issues contact us at awsdatabaseguru@gmail.com
+
+App overview :
+
+    Create a VPC
+
+        Create a Public subnet
+
+        Create a Private Subnet
+
+    Create separate security Groups for web servers, application servers, load balancers and RDS
+
+        Create a Application load balancer for web servers
+
+            Create target groups for ALB  and add instances to that group
+
+    Creating a autoscaling group of instances for web servers [linux based either ubuntu or Redhat ]
+
+        Launch the web servers in Public Sunet
+
+    Create a Application load balancer for Application servers
+
+        Create target groups for ALB and add instances to that group
+
+    Creating a autoscaling group of instances for Application servers [Linux based either ubuntu or Redhat]
+
+        Launch the Application servers in Private Subnet
+
+    Create a RDS  with replication feature connected to application servers
+
+For Demo purposes  we will :
+
+use nginx on Web Servers
+
+Use Apache on Application Servers
