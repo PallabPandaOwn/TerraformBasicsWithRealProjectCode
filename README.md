@@ -5,7 +5,7 @@
 
 # Project -1
 ## Deploying WebApp Stack
-#### Please flow the step-by-step approach
+#### Please follow the step-by-step approach from below link
 
 1. Link -: https://github.com/PallabPandaOwn/TerraformBasicsWithRealProjectCode/blob/master/TerraformProject-1/Step-by-Step.txt
 
