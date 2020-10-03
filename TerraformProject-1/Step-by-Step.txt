@@ -4,8 +4,6 @@ Step by step method :
 
     2) Once you are comfortable with individual modules you can launch the complete webapp
 
-NOTE : If you run into any issues contact us at awsdatabaseguru@gmail.com
-
 App overview :
 
     Create a VPC
