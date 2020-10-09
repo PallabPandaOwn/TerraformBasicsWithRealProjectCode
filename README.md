@@ -18,5 +18,10 @@
 # Project -2 (Dynamodb Deployment)
 ### We are deploying dynamodb with RCU and WCU and global secondary table.
 
+# Project -3 (Deploy EKS cluster using KOPS)
+### We are deploying EKS cluster using KOPS tool.Please find the install steps on below link.
+
+1. Link :- 
+
 
 
