@@ -21,7 +21,7 @@
 # Project -3 (Deploy EKS cluster using KOPS)
 ### We are deploying EKS cluster using KOPS tool.Please find the install steps on below link.
 
-1. Link :- 
+1. Link :- https://github.com/PallabPandaOwn/TerraformBasicsWithRealProjectCode/blob/master/TerraformProject-3/README.md
 
 
 
