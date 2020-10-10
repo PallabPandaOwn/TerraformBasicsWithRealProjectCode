@@ -24,8 +24,11 @@
 1. Link :- https://github.com/PallabPandaOwn/TerraformBasicsWithRealProjectCode/blob/master/TerraformProject-3/README.md
 
 # Project -4 (Deploy EKS cluster using terraform)
-### We are deploying EKS cluster using terraform tool.Please find the install steps on below link.
+### We are deploying EKS cluster using terraform tool.
 ##### Resources - : eks cluster,eksrole,vpc for master,cluster node and attach to eks cluster and run application.
+
+# Project -5 (Terrafor Modules)
+### We are deploying ec2,elb using terraform modules.
 
 
 
