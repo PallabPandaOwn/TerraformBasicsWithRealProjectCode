@@ -29,6 +29,10 @@
 
 # Project -5 (Terrafor Modules)
 ### We are deploying ec2,elb using terraform modules.
+#### Terraform module can be deploy or use in 3 ways
+    1. Source : - GitHub
+    2. Source : - Terraform Registry
+    3. Source : - Localfilepath
 
 
 
